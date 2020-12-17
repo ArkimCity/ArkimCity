@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Currently learning to code and design
 
 Coding Kim  https://arkimcity.github.io/
