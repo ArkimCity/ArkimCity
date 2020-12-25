@@ -1,4 +1,4 @@
-Currently learning to code and design
+Currently learning AI software development and data Analysis Course
 
 Coding Kim  https://arkimcity.github.io/
 
