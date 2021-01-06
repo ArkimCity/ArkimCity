@@ -4,7 +4,7 @@ Coding Kim  https://arkimcity.github.io/
 
 Designing Kim  http://jaeung.kim/
 
-![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)
+<!--![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)-->
 
 
 <!--![Kim's github stats](https://github-readme-stats.vercel.app/api?username=ArkimCity&show_icons=true)-->
