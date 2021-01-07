@@ -1,5 +1,3 @@
-Currently learning AI software development and data Analysis Course
-
 Coding Kim  https://arkimcity.github.io/
 
 Designing Kim  http://jaeung.kim/
