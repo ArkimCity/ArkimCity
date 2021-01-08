@@ -1,6 +1,6 @@
-Coding Kim  https://arkimcity.github.io/
+https://arkimcity.github.io/
 
-Designing Kim  http://jaeung.kim/
+
 
 <!--![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)-->
 
