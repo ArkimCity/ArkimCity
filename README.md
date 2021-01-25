@@ -1,4 +1,6 @@
-https://arkimcity.github.io/
+BLOG - https://arkimcity.github.io/
+
+GITBOOK for Architects - https://arkimcity.gitbook.io/programming-for-architects/
 
 
 
