@@ -2,7 +2,7 @@ BLOG - https://arkimcity.github.io/
 
 GITBOOK for Architects - https://arkimcity.gitbook.io/
 
-
+Personal Site - http://jaeung.kim/
 
 <!--![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)-->
 
