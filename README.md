@@ -1,3 +1,5 @@
+Software is cool and I want to be involved.
+
 BLOG - https://arkimcity.github.io/
 
 GITBOOK for Architects - https://arkimcity.gitbook.io/
