@@ -7,7 +7,7 @@ GITBOOK for Architects - https://arkimcity.gitbook.io/
 <!--![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)-->
 
 
-<!--![Kim's github stats](https://github-readme-stats.vercel.app/api?username=ArkimCity&show_icons=true)-->
+![Kim's github stats](https://github-readme-stats.vercel.app/api?username=ArkimCity&show_icons=true)
 
 <!--
 **ArkimCity/ArkimCity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
