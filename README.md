@@ -1,8 +1,11 @@
 Software is cool and I want to be involved.
 
+개인 블로그
 BLOG - https://arkimcity.github.io/
 
-GITBOOK for Architects - https://arkimcity.gitbook.io/
+
+
+<!--personal GITBOOK f - https://arkimcity.gitbook.io/-->
 
 <!--![screenshot](https://github.com/ArkimCity/ArkimCity/blob/main/KakaoTalk_20210105_234951385.jpg?raw=true)-->
 
