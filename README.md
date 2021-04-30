@@ -2,7 +2,7 @@ Software is cool and I want to be involved.
 
 개인 블로그
 BLOG - https://arkimcity.github.io/
-![https://arkimcity.github.io/](https://github.com/ArkimCity/ArkimCity/blob/main/images/blog_main.png?raw=true)
+[https://arkimcity.github.io/](https://github.com/ArkimCity/ArkimCity/blob/main/images/blog_main.png?raw=true)
 
 <!--personal GITBOOK f - https://arkimcity.gitbook.io/-->
 
