@@ -1,7 +1,7 @@
 Software is cool and I want to be involved.
 
 개인 블로그
-BLOG - https://arkimcity.github.io/
+BLOG - http://github.jaeung.kim/
 
 [![블로그](https://github.com/ArkimCity/ArkimCity/blob/main/images/blog_main.gif?raw=true)](https://arkimcity.github.io/)
 
