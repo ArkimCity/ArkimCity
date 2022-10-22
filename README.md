@@ -3,7 +3,7 @@ Software is cool and I want to be involved.
 개인 블로그
 BLOG - http://github.jaeung.kim/
 
-[![블로그](https://github.com/ArkimCity/ArkimCity/blob/main/images/blog_main.gif?raw=true)](https://arkimcity.github.io/)
+[![블로그](https://github.com/ArkimCity/ArkimCity/blob/main/images/blog_main.gif?raw=true)](http://github.jaeung.kim/)
 
 <!--personal GITBOOK f - https://arkimcity.gitbook.io/-->
 
